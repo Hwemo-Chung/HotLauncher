@@ -2,7 +2,7 @@
 
 macOS 26 메뉴바 앱. 전역 단축키로 지정한 앱을 실행합니다.
 
-- 제품 페이지: https://hwemo-chung.github.io/hotlauncher.html
+- 제품 페이지: https://hwemo-chung.github.io/hot-launcher.html
 - 소스: 이 저장소 (`HotLauncher/` 디렉터리)
 
 ```bash
